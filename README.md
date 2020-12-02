@@ -1,4 +1,4 @@
-# **Astronomy 207: Radiative Processes in Astrophysics Course Notes**
+# **Radiative Processes in Astrophysics Course Notes**
 
 ## ``course_notes_pdf.pdf'' will open the .pdf. 
 
